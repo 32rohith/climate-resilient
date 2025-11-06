@@ -65,3 +65,4 @@ env.json
 
 #aws
 .aws-sam/
+samconfig.toml
